@@ -1,8 +1,6 @@
 # Redbrain
 
-Project designed by Andrea Cristini, Emilie Sauvage, Tiziano Suran, and Carlos Vergel Infante for RedBrain Ltd. as part of the S2DS 2019 program.
-
-### For more detailed information, please see: `TechnicalReport_RedBrain_Sept2019.docx`.
+Project designed by Andrea Cristini, Emilie Sauvage, Tiziano Suran, and Carlos Vergel Infante for RedBrain Ltd. as part of the S2DS 2019 program. The datasets and report documents are not included in this open repository.
 
 Two main processes are performed in this repository:
 
